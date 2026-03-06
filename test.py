@@ -1,3 +1,7 @@
 import numpy as np
-
+a = 1
+my_set = set()
+c = False
+print(str(a))
+print(repr(a))
 print(np.ones((4,3)))
