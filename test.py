@@ -73,3 +73,6 @@ class MyClass:
     b = 2
 instance = MyClass()
 print(instance.__dir__())
+
+dict1 = {"key1": "value1", "key2": "value2"}
+dict1.clear()
